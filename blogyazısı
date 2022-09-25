@@ -1,0 +1,28 @@
+Bu yazının amacı okuyucuya patikadakinden farklı bir yol çizerek bazı kavramlara maruz bırakmak ve bu kavramlar üzerinden kendi yollarını çizmelerinde yardımcı olmaktır.
+
+Bu satırı sonradan eklemem gerektiğini düşündüm. İngilizce, Veri Bilimini öğrenmekten çok daha önemli çünkü Türkçe kaynak oldukça sınırlı. Bu yazıda verilen kaynaklar da İngilizce kaynaklar olduğunu bilmelisiniz.
+
+Günümüzde internette yok yok. Atom bombası planı bile var eğer yeterince cesursanız. Bu bilgi okyanusu içerisinde aradığımızı bulup bu bilgiden bir değer yaratmak güç bir mesele. Bu sebeple kavramlara ve kavramların yaptıkları çağrışımlara aşina olmak durumundayız.
+
+Tabi ki bu okyanustan her zaman kendi başımıza terimleri çekip uğraşmak zorunda değiliz. Bazı siteler var ki bize Veri Bilimi alanında oldukça kapsamlı eğitimler sunuyor. Dataquest ve Datacamp gibi siteler bunlara iyi birer örnektir. Bu sitelerdeki düzgün hazırlanmış programlar sağlam temeller atmanızı sağlar. Ancak bir sorun var ki bu sitelerdeki içerikler inanılmaz pahalıdır. Zaten doların durumu da ortadayken pek öneremeyeceğim ama paranız varsa ne ala.
+
+Böyle düzgün hazırlanmış programlı eğitimler hoşunuza gidiyorsa her zaman EdX ve Coursera sitelerine bakabilirsiniz. Beleş eğitimleri takip etmek içinse Classcentral iyi bir sitedir.
+
+Peki Nelere Dikkat Etmeliyim?
+Yazıya göre öncelikle dikkat edilmesi gerekenler kullanılan aletlerin ve teknolojilerin iyi özümsenmiş olmasıdır. Öğrenmeniz gereken araçlar ve teknolojiler:
+
+Python, günümüzde olmazsa olmaz ama Veri Bilimi için daha da olmazsa olmaz.
+İstatistik ve Lineer Cebir, ben mühendislik eğitimimden oldukça aşinayım ama oldukça zor konular. Bence Lineer Cebir buradaki en zor konu.
+Numpy, Pandas, Matplotlib. Veriyi görselleştirmezseniz hiçbir şey yapmamışsınız demektir.
+Makine Öğrenmesi, örnek veri setleri ile oynamak, denemek, takılmak şart.
+Gerçek Zamanlı Veriler. AWS, Google, Microsoft gibi şirketlerin büyük veri kaynaklarından gerçek zamanlı gerçek verilerle çalışmak Veri Biliminde ilerlediğinizin kanıtıdır.
+Bir ekleme de ben yapacak olursam, geçen hafta Istanbul Data Science Academy’nin Google Cloud iş birliğiyle düzenlediği Machine Learning Boostcamp etkinliğine katıldım. Gerçek zamanlı verilerle oynama şansım oldu. Google Cloud sisteminin makine öğrenmesini ne kadar webe taşıdığını gördüğümden aslında Veri Bilimine bir tık şüpheci yaklaşıyorum. Sonuçta veriyi tekrar tekrar ve yıllardır eğiten Google’ın yazılımları daha optimize çalışıyor. Bize boostcamp boyunca denememiz için özel hesaplar verilse de siz de bedavaya Google’ın “bulutların üzerindeki yapay zeka imparatorluğunu” deneyimleyebilirsiniz.
+
+Son Söz
+Büyük teknoloji şirketlerinin avantajları su götürmez ama bu sektörde hiç pay olmadığı anlamına gelmiyor. Kim bilir belki bizden biri bu büyük şirketlere rakip kendi sistemini çıkarabilir.
+
+Yapay zekayı seviyorsanız, dünyayı daha iyi tanımak istiyorsanız (bu kadar veriyle bizden daha iyi kim tanıyabilir?), yazılım vb. alanlarda tecrübe edinmeye kararlıysanız bu yol tam size göre.
+
+Sonuçta bir veri bilimci olmak için meraklı, motivasyonu yüksek ve tutkulu olmak demektir.
+
+Okuduğunuz için teşekkürler. Geri bildirimde bulunmayı unutmayın.
